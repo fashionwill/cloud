@@ -1,0 +1,1 @@
+<?php exit;?>a:1:{s:15:"spaceUpdate-1:1";a:5:{s:7:"timeAdd";d:1661758945.647566;s:11:"timeLastRun";d:1661758945.098813;s:4:"call";s:29:"SourceModel.targetSpaceUpdate";s:4:"args";a:2:{i:0;s:1:"1";i:1;s:1:"1";}s:4:"time";d:1.5;}}
